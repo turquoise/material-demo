@@ -1,5 +1,7 @@
 # MaterialDemo
 
+github pages https://stackoverflow.com/questions/43626572/how-to-publish-to-github-pages
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
 ## Development server
